@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lavithareddy
-- 💻 Languages: Python, JavaScript, C++
+- 💻 Languages: Python, C++
 - 🌐 Web: HTML, CSS, React, Node.js
-- 🛢️ Databases: MySQL, MongoDB
-- ⚙️ Tools: Git, Docker, VS Code
+  
 
 <!---
 lavithareddy/lavithareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
